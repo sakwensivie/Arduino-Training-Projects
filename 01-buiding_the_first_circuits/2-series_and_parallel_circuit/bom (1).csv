@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"Uparallel arduino, USeries arduino",2," Arduino Uno R3"
+"R1, R2",2,"220 Ω Resistor"
+"S1, S2, S3, S4",4," Pushbutton"
+"D1, D2",2,"Red LED"
