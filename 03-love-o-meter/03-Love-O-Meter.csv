@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"ULove-O-Meter Board",1," Arduino Uno R3"
+"U1",1," Temperature Sensor [TMP36]"
+"D3, D1, D4",3,"Red LED"

@@ -29,7 +29,7 @@ void loop()
 
   float temperature  = (voltage - 0.5) * 100;
 
-  Serial.print("Temperature (C): ");
+  Serial.print(", Temperature (C): ");
   Serial.println(temperature);
 
   if(temperature < baselineTemp)
